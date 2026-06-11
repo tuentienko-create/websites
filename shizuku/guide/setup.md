@@ -6,7 +6,9 @@
 
 Shizuku supports startup in the following three ways.
 
-::: tip If you are using GrapheneOS
+::: tip If you are using GrapheneOSsrc="$withBase('/images/enable_dev_options.png')" style="max-width:320px;width:100%">
+3. Enter "Wireless debugging"<br><br><img :src="$withBase('/images/enter_wireless_debugging.png')" style="max-width:320px;width:100%">
+4. Enable "Wireless debugging"<br><br><img :src="$withBase('/images/enable_wireless_debugging.png')" style="max-width:320px;width:100%">3
 
 System settings - "Security" - "Secure app spawning" may need to be disabled.
 
